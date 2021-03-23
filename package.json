@@ -4,7 +4,7 @@
   "description": "RSS Aggregator",
   "scripts": {
     "test": "jest --colors",
-    "build": "mkdir dist NODE_ENV=production npx webpack"
+    "build": "NODE_ENV=production npx webpack"
   },
   "repository": {
     "type": "git",

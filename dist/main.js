@@ -1,0 +1,1 @@
+(()=>{"use strict";class t{constructor(t){this.element=t}init(){this.element.textContent="",console.log("Init copmleted!")}}(()=>{const e=document.getElementById("output");new t(e).init()})()})();
